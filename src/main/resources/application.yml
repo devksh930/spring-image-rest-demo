@@ -5,4 +5,4 @@ spring:
       max-file-size: 200MB
       max-request-size: 220MB
 file:
-  upload-dir: ~/dev/UPLOAD_FILES
+  upload-dir: ./dev/UPLOAD_FILES
